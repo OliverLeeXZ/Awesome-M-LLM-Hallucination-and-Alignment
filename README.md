@@ -3,7 +3,7 @@ Recent works about (M)LLM hallucination and alignment.
 
  ## 🔥🔥🔥 News 🔥🔥🔥
 
-2024.10.29 Adding some papers regarding to (M)LLM hallucination.
+**2024.10.29** Adding some papers regarding to (M)LLM hallucination.
 
 ## Decoding Strategy to Alleviate Hallucination
 | Method       | Publication       | GPU Resource       | Description |
