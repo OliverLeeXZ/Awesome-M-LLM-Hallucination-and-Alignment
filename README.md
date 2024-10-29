@@ -1,7 +1,7 @@
-# Awesome-M-LLM-Hallucination-and-Alignment
+# Awesome-(M)LLM-Hallucination-and-Alignment
 Recent works about (M)LLM hallucination and alignment.
 
-🔥 **Updated 2024-10-28**
+ ## 🔥🔥🔥 News 🔥🔥🔥
 
 2024.10.29 Adding some papers regarding to (M)LLM hallucination.
 
